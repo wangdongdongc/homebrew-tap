@@ -4,8 +4,8 @@ class Shuvi < Formula
   version "0.1.0"
   license "MIT"
 
-  url "https://github.com/wangdongdongc/ShuviCmd/releases/download/v#{version}/shuvi-v#{version}-macos-universal.tar.gz"
-  sha256 "PLACEHOLDER_SHA256"
+  url "https://github.com/wangdongdongc/ShuviCmd/releases/download/v0.1.0/shuvi-v0.1.0-macos-universal.tar.gz"
+  sha256 "f1f432e9e09bd2c86131f0fff8a847a8d31b2186c95c096b2ad74c3fd21796d1"
 
   depends_on :macos
 
