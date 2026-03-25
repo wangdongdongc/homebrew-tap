@@ -1,11 +1,11 @@
 class Shuvi < Formula
   desc "macOS CLI AI agent that executes bash commands via natural language"
   homepage "https://github.com/wangdongdongc/ShuviCmd"
-  version "0.1.0"
+  version "0.1.1"
   license "MIT"
 
-  url "https://github.com/wangdongdongc/ShuviCmd/releases/download/v0.1.0/shuvi-v0.1.0-macos-universal.tar.gz"
-  sha256 "f1f432e9e09bd2c86131f0fff8a847a8d31b2186c95c096b2ad74c3fd21796d1"
+  url "https://github.com/wangdongdongc/ShuviCmd/releases/download/v0.1.1/shuvi-v0.1.1-macos-universal.tar.gz"
+  sha256 "2932dfdb07935e3cdee981c6cc9dab65eba1beca59d5ef1d5f971416647a2dc7"
 
   depends_on :macos
 
